@@ -1,1 +1,1 @@
-Another readme for 0x01-git
+Anothe readme for 0x01-git
